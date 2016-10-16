@@ -1,0 +1,15 @@
+F:\Chapter3\LaunchersAndChoosersDemo\Bin\Debug\ApplicationIcon.png
+F:\Chapter3\LaunchersAndChoosersDemo\Bin\Debug\Background.png
+F:\Chapter3\LaunchersAndChoosersDemo\Bin\Debug\LaunchersAndChoosersDemo.dll
+F:\Chapter3\LaunchersAndChoosersDemo\Bin\Debug\LaunchersAndChoosersDemo.pdb
+F:\Chapter3\LaunchersAndChoosersDemo\Bin\Debug\AppManifest.xaml
+F:\Chapter3\LaunchersAndChoosersDemo\Bin\Debug\LaunchersAndChoosersDemo.xap
+F:\Chapter3\LaunchersAndChoosersDemo\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\Chapter3\LaunchersAndChoosersDemo\Bin\Debug\Microsoft.Phone.Controls.xml
+F:\Chapter3\LaunchersAndChoosersDemo\obj\Debug\ResolveAssemblyReference.cache
+F:\Chapter3\LaunchersAndChoosersDemo\obj\Debug\App.g.i.cs
+F:\Chapter3\LaunchersAndChoosersDemo\obj\Debug\MainPage.g.i.cs
+F:\Chapter3\LaunchersAndChoosersDemo\obj\Debug\LaunchersAndChoosersDemo.g.resources
+F:\Chapter3\LaunchersAndChoosersDemo\obj\Debug\LaunchersAndChoosersDemo.dll
+F:\Chapter3\LaunchersAndChoosersDemo\obj\Debug\LaunchersAndChoosersDemo.pdb
+F:\Chapter3\LaunchersAndChoosersDemo\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,13 @@
+C:\Dev\WP7\Chapter1\SilverlightTrialApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\WP7\Chapter1\SilverlightTrialApplication\obj\Debug\App.g.i.cs
+C:\Dev\WP7\Chapter1\SilverlightTrialApplication\obj\Debug\MainPage.g.i.cs
+C:\Dev\WP7\Chapter1\SilverlightTrialApplication\obj\Debug\SilverlightTrialApplication.g.resources
+C:\Dev\WP7\Chapter1\SilverlightTrialApplication\Bin\Debug\ApplicationIcon.png
+C:\Dev\WP7\Chapter1\SilverlightTrialApplication\Bin\Debug\Background.png
+C:\Dev\WP7\Chapter1\SilverlightTrialApplication\Bin\Debug\SilverlightTrialApplication.dll
+C:\Dev\WP7\Chapter1\SilverlightTrialApplication\Bin\Debug\SilverlightTrialApplication.pdb
+C:\Dev\WP7\Chapter1\SilverlightTrialApplication\Bin\Debug\AppManifest.xaml
+C:\Dev\WP7\Chapter1\SilverlightTrialApplication\Bin\Debug\SilverlightTrialApplication.xap
+C:\Dev\WP7\Chapter1\SilverlightTrialApplication\obj\Debug\SilverlightTrialApplication.dll
+C:\Dev\WP7\Chapter1\SilverlightTrialApplication\obj\Debug\SilverlightTrialApplication.pdb
+C:\Dev\WP7\Chapter1\SilverlightTrialApplication\obj\Debug\XapCacheFile.xml

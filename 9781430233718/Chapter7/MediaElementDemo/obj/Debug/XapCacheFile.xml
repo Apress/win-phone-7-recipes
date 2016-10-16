@@ -1,0 +1,11 @@
+﻿<xapCache source="F:\Chapter7\MediaElementDemo\Bin\Debug\MediaElementDemo.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2/14/2011 10:50:38 PM">
+  <file source="F:\Chapter7\MediaElementDemo\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2/14/2011 3:03:17 PM" />
+  <file source="F:\Chapter7\MediaElementDemo\obj\Debug\MediaElementDemo.dll" archivePath="MediaElementDemo.dll" lastWriteTime="2/14/2011 10:50:37 PM" />
+  <file source="F:\Chapter7\MediaElementDemo\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2/14/2011 3:03:17 PM" />
+  <file source="F:\Chapter7\MediaElementDemo\Background.png" archivePath="Background.png" lastWriteTime="2/14/2011 3:03:17 PM" />
+  <file source="F:\Chapter7\MediaElementDemo\Images\appbar.stop.rest.png" archivePath="Images\appbar.stop.rest.png" lastWriteTime="2/14/2011 3:07:01 PM" />
+  <file source="F:\Chapter7\MediaElementDemo\Images\appbar.transport.pause.rest.png" archivePath="Images\appbar.transport.pause.rest.png" lastWriteTime="2/14/2011 3:07:01 PM" />
+  <file source="F:\Chapter7\MediaElementDemo\Images\appbar.transport.play.rest.png" archivePath="Images\appbar.transport.play.rest.png" lastWriteTime="2/14/2011 3:07:01 PM" />
+  <file source="F:\Chapter7\MediaElementDemo\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2/14/2011 3:03:18 PM" />
+  <file source="F:\Chapter7\MediaElementDemo\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2/14/2011 3:23:01 PM" />
+</xapCache>

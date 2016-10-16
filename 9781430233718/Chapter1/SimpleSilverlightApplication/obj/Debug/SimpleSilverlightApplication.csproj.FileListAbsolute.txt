@@ -1,0 +1,13 @@
+C:\Dev\WP7\Chapter1\SimpleSilverlightApplication\Bin\Debug\ApplicationIcon.png
+C:\Dev\WP7\Chapter1\SimpleSilverlightApplication\Bin\Debug\Background.png
+C:\Dev\WP7\Chapter1\SimpleSilverlightApplication\Bin\Debug\SimpleSilverlightApplication.dll
+C:\Dev\WP7\Chapter1\SimpleSilverlightApplication\Bin\Debug\SimpleSilverlightApplication.pdb
+C:\Dev\WP7\Chapter1\SimpleSilverlightApplication\Bin\Debug\AppManifest.xaml
+C:\Dev\WP7\Chapter1\SimpleSilverlightApplication\Bin\Debug\SimpleSilverlightApplication.xap
+C:\Dev\WP7\Chapter1\SimpleSilverlightApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\WP7\Chapter1\SimpleSilverlightApplication\obj\Debug\App.g.i.cs
+C:\Dev\WP7\Chapter1\SimpleSilverlightApplication\obj\Debug\MainPage.g.i.cs
+C:\Dev\WP7\Chapter1\SimpleSilverlightApplication\obj\Debug\SimpleSilverlightApplication.g.resources
+C:\Dev\WP7\Chapter1\SimpleSilverlightApplication\obj\Debug\SimpleSilverlightApplication.dll
+C:\Dev\WP7\Chapter1\SimpleSilverlightApplication\obj\Debug\SimpleSilverlightApplication.pdb
+C:\Dev\WP7\Chapter1\SimpleSilverlightApplication\obj\Debug\XapCacheFile.xml

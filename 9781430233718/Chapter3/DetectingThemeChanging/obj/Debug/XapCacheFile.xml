@@ -1,0 +1,14 @@
+﻿<xapCache source="F:\chapter3\DetectingThemeChanging\Bin\Debug\DetectingThemeChanging.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="23/02/2011 15:02:48">
+  <file source="F:\chapter3\DetectingThemeChanging\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="18/02/2011 10:37:32" />
+  <file source="F:\chapter3\DetectingThemeChanging\obj\Debug\DetectingThemeChanging.dll" archivePath="DetectingThemeChanging.dll" lastWriteTime="23/02/2011 15:02:47" />
+  <file source="F:\chapter3\DetectingThemeChanging\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="18/02/2011 10:37:32" />
+  <file source="F:\chapter3\DetectingThemeChanging\Background.png" archivePath="Background.png" lastWriteTime="18/02/2011 10:37:32" />
+  <file source="F:\chapter3\DetectingThemeChanging\Images\dark\appbar.stop.rest.png" archivePath="Images\dark\appbar.stop.rest.png" lastWriteTime="14/02/2011 15:07:01" />
+  <file source="F:\chapter3\DetectingThemeChanging\Images\dark\appbar.transport.pause.rest.png" archivePath="Images\dark\appbar.transport.pause.rest.png" lastWriteTime="14/02/2011 15:07:01" />
+  <file source="F:\chapter3\DetectingThemeChanging\Images\dark\appbar.transport.play.rest.png" archivePath="Images\dark\appbar.transport.play.rest.png" lastWriteTime="14/02/2011 15:07:01" />
+  <file source="F:\chapter3\DetectingThemeChanging\Images\light\appbar.stop.rest.png" archivePath="Images\light\appbar.stop.rest.png" lastWriteTime="17/08/2010 15:41:24" />
+  <file source="F:\chapter3\DetectingThemeChanging\Images\light\appbar.transport.pause.rest.png" archivePath="Images\light\appbar.transport.pause.rest.png" lastWriteTime="17/08/2010 15:41:24" />
+  <file source="F:\chapter3\DetectingThemeChanging\Images\light\appbar.transport.play.rest.png" archivePath="Images\light\appbar.transport.play.rest.png" lastWriteTime="17/08/2010 15:41:24" />
+  <file source="F:\chapter3\DetectingThemeChanging\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="18/02/2011 10:37:33" />
+  <file source="F:\chapter3\DetectingThemeChanging\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="18/02/2011 11:45:34" />
+</xapCache>

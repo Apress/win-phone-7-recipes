@@ -1,0 +1,13 @@
+C:\Dev\WP7\Chapter1\XNATrialApplication\XNATrialApplication\bin\Windows Phone\Debug\XNATrialApplication.dll
+C:\Dev\WP7\Chapter1\XNATrialApplication\XNATrialApplication\bin\Windows Phone\Debug\XNATrialApplication.pdb
+C:\Dev\WP7\Chapter1\XNATrialApplication\XNATrialApplication\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Dev\WP7\Chapter1\XNATrialApplication\XNATrialApplication\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Dev\WP7\Chapter1\XNATrialApplication\XNATrialApplication\obj\Windows Phone\Debug\XNATrialApplication.dll
+C:\Dev\WP7\Chapter1\XNATrialApplication\XNATrialApplication\obj\Windows Phone\Debug\XNATrialApplication.pdb
+C:\Dev\WP7\Chapter1\XNATrialApplication\XNATrialApplication\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Dev\WP7\Chapter1\XNATrialApplication\XNATrialApplication\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Dev\WP7\Chapter1\XNATrialApplication\XNATrialApplication\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\GameThumbnail.png
+C:\Dev\WP7\Chapter1\XNATrialApplication\XNATrialApplication\bin\Windows Phone\Debug\XNATrialApplication.xap
+C:\Dev\WP7\Chapter1\XNATrialApplication\XNATrialApplication\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Dev\WP7\Chapter1\XNATrialApplication\XNATrialApplication\bin\Windows Phone\Debug\Content\Font.xnb

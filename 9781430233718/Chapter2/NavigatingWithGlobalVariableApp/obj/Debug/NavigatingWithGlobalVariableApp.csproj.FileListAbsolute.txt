@@ -1,0 +1,15 @@
+C:\Dev\WP7\Chapter2\NavigatingWithGlobalVariableApp\Bin\Debug\ApplicationIcon.png
+C:\Dev\WP7\Chapter2\NavigatingWithGlobalVariableApp\Bin\Debug\Background.png
+C:\Dev\WP7\Chapter2\NavigatingWithGlobalVariableApp\Bin\Debug\NavigatingWithGlobalVariableApp.dll
+C:\Dev\WP7\Chapter2\NavigatingWithGlobalVariableApp\Bin\Debug\NavigatingWithGlobalVariableApp.pdb
+C:\Dev\WP7\Chapter2\NavigatingWithGlobalVariableApp\Bin\Debug\AppManifest.xaml
+C:\Dev\WP7\Chapter2\NavigatingWithGlobalVariableApp\Bin\Debug\NavigatingWithGlobalVariableApp.xap
+C:\Dev\WP7\Chapter2\NavigatingWithGlobalVariableApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\WP7\Chapter2\NavigatingWithGlobalVariableApp\obj\Debug\App.g.i.cs
+C:\Dev\WP7\Chapter2\NavigatingWithGlobalVariableApp\obj\Debug\MainPage.g.i.cs
+C:\Dev\WP7\Chapter2\NavigatingWithGlobalVariableApp\obj\Debug\NavigatingWithGlobalVariableApp.g.resources
+C:\Dev\WP7\Chapter2\NavigatingWithGlobalVariableApp\obj\Debug\NavigatingWithGlobalVariableApp.dll
+C:\Dev\WP7\Chapter2\NavigatingWithGlobalVariableApp\obj\Debug\NavigatingWithGlobalVariableApp.pdb
+C:\Dev\WP7\Chapter2\NavigatingWithGlobalVariableApp\obj\Debug\XapCacheFile.xml
+C:\Dev\WP7\Chapter2\NavigatingWithGlobalVariableApp\obj\Debug\Page2.g.i.cs
+C:\Dev\WP7\Chapter2\NavigatingWithGlobalVariableApp\obj\Debug\Page3.g.i.cs

@@ -1,0 +1,9 @@
+﻿<xapCache source="C:\Dev\WP7\Chapter5\AddGestureDemo\Bin\Debug\AddGestureDemo.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="29/01/2011 23:32:59">
+  <file source="C:\Dev\WP7\Chapter5\AddGestureDemo\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="29/01/2011 17:07:08" />
+  <file source="C:\Dev\WP7\Chapter5\AddGestureDemo\obj\Debug\AddGestureDemo.dll" archivePath="AddGestureDemo.dll" lastWriteTime="29/01/2011 23:32:59" />
+  <file source="c:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v7.0\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="01/09/2010 01:41:46" />
+  <file source="C:\Dev\WP7\Chapter5\AddGestureDemo\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="29/01/2011 17:07:08" />
+  <file source="C:\Dev\WP7\Chapter5\AddGestureDemo\Background.png" archivePath="Background.png" lastWriteTime="29/01/2011 17:07:08" />
+  <file source="C:\Dev\WP7\Chapter5\AddGestureDemo\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="29/01/2011 17:07:08" />
+  <file source="C:\Dev\WP7\Chapter5\AddGestureDemo\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="29/01/2011 17:32:07" />
+</xapCache>

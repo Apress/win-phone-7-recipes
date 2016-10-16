@@ -1,0 +1,13 @@
+C:\Dev\WP7\Chapter2\ObscureUnobscuredApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\WP7\Chapter2\ObscureUnobscuredApp\obj\Debug\App.g.i.cs
+C:\Dev\WP7\Chapter2\ObscureUnobscuredApp\obj\Debug\MainPage.g.i.cs
+C:\Dev\WP7\Chapter2\ObscureUnobscuredApp\obj\Debug\ObscureUnobscuredApp.g.resources
+C:\Dev\WP7\Chapter2\ObscureUnobscuredApp\Bin\Debug\ApplicationIcon.png
+C:\Dev\WP7\Chapter2\ObscureUnobscuredApp\Bin\Debug\Background.png
+C:\Dev\WP7\Chapter2\ObscureUnobscuredApp\Bin\Debug\ObscureUnobscuredApp.dll
+C:\Dev\WP7\Chapter2\ObscureUnobscuredApp\Bin\Debug\ObscureUnobscuredApp.pdb
+C:\Dev\WP7\Chapter2\ObscureUnobscuredApp\Bin\Debug\AppManifest.xaml
+C:\Dev\WP7\Chapter2\ObscureUnobscuredApp\Bin\Debug\ObscureUnobscuredApp.xap
+C:\Dev\WP7\Chapter2\ObscureUnobscuredApp\obj\Debug\ObscureUnobscuredApp.dll
+C:\Dev\WP7\Chapter2\ObscureUnobscuredApp\obj\Debug\ObscureUnobscuredApp.pdb
+C:\Dev\WP7\Chapter2\ObscureUnobscuredApp\obj\Debug\XapCacheFile.xml

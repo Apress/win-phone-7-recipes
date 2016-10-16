@@ -1,0 +1,14 @@
+C:\Dev\WP7\Chapter2\NavigatingWithParamsApp\Bin\Debug\ApplicationIcon.png
+C:\Dev\WP7\Chapter2\NavigatingWithParamsApp\Bin\Debug\Background.png
+C:\Dev\WP7\Chapter2\NavigatingWithParamsApp\Bin\Debug\NavigatingWithParamsApp.dll
+C:\Dev\WP7\Chapter2\NavigatingWithParamsApp\Bin\Debug\NavigatingWithParamsApp.pdb
+C:\Dev\WP7\Chapter2\NavigatingWithParamsApp\Bin\Debug\AppManifest.xaml
+C:\Dev\WP7\Chapter2\NavigatingWithParamsApp\Bin\Debug\NavigatingWithParamsApp.xap
+C:\Dev\WP7\Chapter2\NavigatingWithParamsApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\WP7\Chapter2\NavigatingWithParamsApp\obj\Debug\App.g.i.cs
+C:\Dev\WP7\Chapter2\NavigatingWithParamsApp\obj\Debug\MainPage.g.i.cs
+C:\Dev\WP7\Chapter2\NavigatingWithParamsApp\obj\Debug\Page2.g.i.cs
+C:\Dev\WP7\Chapter2\NavigatingWithParamsApp\obj\Debug\NavigatingWithParamsApp.g.resources
+C:\Dev\WP7\Chapter2\NavigatingWithParamsApp\obj\Debug\NavigatingWithParamsApp.dll
+C:\Dev\WP7\Chapter2\NavigatingWithParamsApp\obj\Debug\NavigatingWithParamsApp.pdb
+C:\Dev\WP7\Chapter2\NavigatingWithParamsApp\obj\Debug\XapCacheFile.xml

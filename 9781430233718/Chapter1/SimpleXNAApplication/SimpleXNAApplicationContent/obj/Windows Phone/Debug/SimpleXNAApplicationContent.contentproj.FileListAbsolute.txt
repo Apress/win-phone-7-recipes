@@ -1,0 +1,1 @@
+C:\Dev\WP7\Chapter1\SimpleXNAApplication\SimpleXNAApplicationContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleXNAApplication", "SimpleXNAApplication\SimpleXNAApplication\SimpleXNAApplication.csproj", "{A1D9C88F-DC80-41C5-8734-221D4664650A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SimpleXNAApplicationContent", "SimpleXNAApplication\SimpleXNAApplicationContent\SimpleXNAApplicationContent.contentproj", "{5A9979AF-A645-4D6F-BC84-FD8B97EA88E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1D9C88F-DC80-41C5-8734-221D4664650A}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{A1D9C88F-DC80-41C5-8734-221D4664650A}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{A1D9C88F-DC80-41C5-8734-221D4664650A}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{A1D9C88F-DC80-41C5-8734-221D4664650A}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{A1D9C88F-DC80-41C5-8734-221D4664650A}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{A1D9C88F-DC80-41C5-8734-221D4664650A}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{5A9979AF-A645-4D6F-BC84-FD8B97EA88E7}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{5A9979AF-A645-4D6F-BC84-FD8B97EA88E7}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

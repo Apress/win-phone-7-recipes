@@ -1,0 +1,16 @@
+C:\Dev\WP7\Chapter5\GesturesWithToolkit\Bin\Debug\ApplicationIcon.png
+C:\Dev\WP7\Chapter5\GesturesWithToolkit\Bin\Debug\Background.png
+C:\Dev\WP7\Chapter5\GesturesWithToolkit\Bin\Debug\GesturesWithToolkit.dll
+C:\Dev\WP7\Chapter5\GesturesWithToolkit\Bin\Debug\GesturesWithToolkit.pdb
+C:\Dev\WP7\Chapter5\GesturesWithToolkit\Bin\Debug\AppManifest.xaml
+C:\Dev\WP7\Chapter5\GesturesWithToolkit\Bin\Debug\GesturesWithToolkit.xap
+C:\Dev\WP7\Chapter5\GesturesWithToolkit\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Dev\WP7\Chapter5\GesturesWithToolkit\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Dev\WP7\Chapter5\GesturesWithToolkit\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Dev\WP7\Chapter5\GesturesWithToolkit\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\WP7\Chapter5\GesturesWithToolkit\obj\Debug\App.g.i.cs
+C:\Dev\WP7\Chapter5\GesturesWithToolkit\obj\Debug\MainPage.g.i.cs
+C:\Dev\WP7\Chapter5\GesturesWithToolkit\obj\Debug\GesturesWithToolkit.g.resources
+C:\Dev\WP7\Chapter5\GesturesWithToolkit\obj\Debug\GesturesWithToolkit.dll
+C:\Dev\WP7\Chapter5\GesturesWithToolkit\obj\Debug\GesturesWithToolkit.pdb
+C:\Dev\WP7\Chapter5\GesturesWithToolkit\obj\Debug\XapCacheFile.xml

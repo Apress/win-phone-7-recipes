@@ -1,0 +1,15 @@
+F:\Chapter3\PreDefinedSystemStylesDemo\Bin\Debug\ApplicationIcon.png
+F:\Chapter3\PreDefinedSystemStylesDemo\Bin\Debug\Background.png
+F:\Chapter3\PreDefinedSystemStylesDemo\Bin\Debug\PreDefinedSystemStylesDemo.dll
+F:\Chapter3\PreDefinedSystemStylesDemo\Bin\Debug\PreDefinedSystemStylesDemo.pdb
+F:\Chapter3\PreDefinedSystemStylesDemo\Bin\Debug\AppManifest.xaml
+F:\Chapter3\PreDefinedSystemStylesDemo\Bin\Debug\PreDefinedSystemStylesDemo.xap
+F:\Chapter3\PreDefinedSystemStylesDemo\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\Chapter3\PreDefinedSystemStylesDemo\Bin\Debug\Microsoft.Phone.Controls.xml
+F:\Chapter3\PreDefinedSystemStylesDemo\obj\Debug\ResolveAssemblyReference.cache
+F:\Chapter3\PreDefinedSystemStylesDemo\obj\Debug\App.g.i.cs
+F:\Chapter3\PreDefinedSystemStylesDemo\obj\Debug\MainPage.g.i.cs
+F:\Chapter3\PreDefinedSystemStylesDemo\obj\Debug\PreDefinedSystemStylesDemo.g.resources
+F:\Chapter3\PreDefinedSystemStylesDemo\obj\Debug\PreDefinedSystemStylesDemo.dll
+F:\Chapter3\PreDefinedSystemStylesDemo\obj\Debug\PreDefinedSystemStylesDemo.pdb
+F:\Chapter3\PreDefinedSystemStylesDemo\obj\Debug\XapCacheFile.xml

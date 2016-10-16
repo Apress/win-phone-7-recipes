@@ -1,0 +1,13 @@
+F:\Chapter3\DetectingThemeChanging\Bin\Debug\ApplicationIcon.png
+F:\Chapter3\DetectingThemeChanging\Bin\Debug\Background.png
+F:\Chapter3\DetectingThemeChanging\Bin\Debug\DetectingThemeChanging.dll
+F:\Chapter3\DetectingThemeChanging\Bin\Debug\DetectingThemeChanging.pdb
+F:\Chapter3\DetectingThemeChanging\Bin\Debug\AppManifest.xaml
+F:\Chapter3\DetectingThemeChanging\Bin\Debug\DetectingThemeChanging.xap
+F:\Chapter3\DetectingThemeChanging\obj\Debug\ResolveAssemblyReference.cache
+F:\Chapter3\DetectingThemeChanging\obj\Debug\App.g.i.cs
+F:\Chapter3\DetectingThemeChanging\obj\Debug\MainPage.g.i.cs
+F:\Chapter3\DetectingThemeChanging\obj\Debug\DetectingThemeChanging.g.resources
+F:\Chapter3\DetectingThemeChanging\obj\Debug\DetectingThemeChanging.dll
+F:\Chapter3\DetectingThemeChanging\obj\Debug\DetectingThemeChanging.pdb
+F:\Chapter3\DetectingThemeChanging\obj\Debug\XapCacheFile.xml

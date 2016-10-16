@@ -1,0 +1,13 @@
+F:\Chapter7\FunnyRepeater\Bin\Release\ApplicationIcon.png
+F:\Chapter7\FunnyRepeater\Bin\Release\Background.png
+F:\Chapter7\FunnyRepeater\Bin\Release\FunnyRepeater.dll
+F:\Chapter7\FunnyRepeater\Bin\Release\FunnyRepeater.pdb
+F:\Chapter7\FunnyRepeater\Bin\Release\AppManifest.xaml
+F:\Chapter7\FunnyRepeater\Bin\Release\FunnyRepeater.xap
+F:\Chapter7\FunnyRepeater\obj\Release\ResolveAssemblyReference.cache
+F:\Chapter7\FunnyRepeater\obj\Release\App.g.i.cs
+F:\Chapter7\FunnyRepeater\obj\Release\MainPage.g.i.cs
+F:\Chapter7\FunnyRepeater\obj\Release\FunnyRepeater.g.resources
+F:\Chapter7\FunnyRepeater\obj\Release\FunnyRepeater.dll
+F:\Chapter7\FunnyRepeater\obj\Release\FunnyRepeater.pdb
+F:\Chapter7\FunnyRepeater\obj\Release\XapCacheFile.xml

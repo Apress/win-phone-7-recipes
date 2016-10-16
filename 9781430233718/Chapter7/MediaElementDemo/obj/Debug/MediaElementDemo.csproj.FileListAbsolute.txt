@@ -1,0 +1,13 @@
+F:\Chapter7\MediaElementDemo\Bin\Debug\ApplicationIcon.png
+F:\Chapter7\MediaElementDemo\Bin\Debug\Background.png
+F:\Chapter7\MediaElementDemo\Bin\Debug\MediaElementDemo.dll
+F:\Chapter7\MediaElementDemo\Bin\Debug\MediaElementDemo.pdb
+F:\Chapter7\MediaElementDemo\Bin\Debug\AppManifest.xaml
+F:\Chapter7\MediaElementDemo\Bin\Debug\MediaElementDemo.xap
+F:\Chapter7\MediaElementDemo\obj\Debug\ResolveAssemblyReference.cache
+F:\Chapter7\MediaElementDemo\obj\Debug\App.g.i.cs
+F:\Chapter7\MediaElementDemo\obj\Debug\MainPage.g.i.cs
+F:\Chapter7\MediaElementDemo\obj\Debug\MediaElementDemo.g.resources
+F:\Chapter7\MediaElementDemo\obj\Debug\MediaElementDemo.dll
+F:\Chapter7\MediaElementDemo\obj\Debug\MediaElementDemo.pdb
+F:\Chapter7\MediaElementDemo\obj\Debug\XapCacheFile.xml

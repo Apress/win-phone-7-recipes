@@ -1,0 +1,13 @@
+C:\Dev\WP7\Chapter5\GesturesDemo\Bin\Debug\ApplicationIcon.png
+C:\Dev\WP7\Chapter5\GesturesDemo\Bin\Debug\Background.png
+C:\Dev\WP7\Chapter5\GesturesDemo\Bin\Debug\GesturesDemo.dll
+C:\Dev\WP7\Chapter5\GesturesDemo\Bin\Debug\GesturesDemo.pdb
+C:\Dev\WP7\Chapter5\GesturesDemo\Bin\Debug\AppManifest.xaml
+C:\Dev\WP7\Chapter5\GesturesDemo\Bin\Debug\GesturesDemo.xap
+C:\Dev\WP7\Chapter5\GesturesDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\WP7\Chapter5\GesturesDemo\obj\Debug\App.g.i.cs
+C:\Dev\WP7\Chapter5\GesturesDemo\obj\Debug\MainPage.g.i.cs
+C:\Dev\WP7\Chapter5\GesturesDemo\obj\Debug\GesturesDemo.g.resources
+C:\Dev\WP7\Chapter5\GesturesDemo\obj\Debug\GesturesDemo.dll
+C:\Dev\WP7\Chapter5\GesturesDemo\obj\Debug\GesturesDemo.pdb
+C:\Dev\WP7\Chapter5\GesturesDemo\obj\Debug\XapCacheFile.xml

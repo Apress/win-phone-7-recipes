@@ -1,0 +1,9 @@
+﻿<xapCache source="F:\Chapter7\ShuffleMe\Bin\Release\ShuffleMe.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="26/02/2011 22:23:36">
+  <file source="F:\Chapter7\ShuffleMe\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="26/02/2011 22:23:11" />
+  <file source="F:\Chapter7\ShuffleMe\obj\Release\ShuffleMe.dll" archivePath="ShuffleMe.dll" lastWriteTime="26/02/2011 22:23:35" />
+  <file source="F:\Chapter7\ShuffleMe\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="07/02/2011 11:30:12" />
+  <file source="F:\Chapter7\ShuffleMe\images\nocover.png" archivePath="images\nocover.png" lastWriteTime="07/02/2011 10:32:47" />
+  <file source="F:\Chapter7\ShuffleMe\images\tile.png" archivePath="images\tile.png" lastWriteTime="26/02/2011 22:23:04" />
+  <file source="F:\Chapter7\ShuffleMe\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="07/02/2011 09:45:28" />
+  <file source="F:\Chapter7\ShuffleMe\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="26/02/2011 22:10:10" />
+</xapCache>

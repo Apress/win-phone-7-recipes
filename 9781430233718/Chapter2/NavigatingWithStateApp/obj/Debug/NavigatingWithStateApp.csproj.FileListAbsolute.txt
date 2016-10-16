@@ -1,0 +1,14 @@
+C:\Dev\WP7\Chapter2\NavigatingWithStateApp\Bin\Debug\ApplicationIcon.png
+C:\Dev\WP7\Chapter2\NavigatingWithStateApp\Bin\Debug\Background.png
+C:\Dev\WP7\Chapter2\NavigatingWithStateApp\Bin\Debug\NavigatingWithStateApp.dll
+C:\Dev\WP7\Chapter2\NavigatingWithStateApp\Bin\Debug\NavigatingWithStateApp.pdb
+C:\Dev\WP7\Chapter2\NavigatingWithStateApp\Bin\Debug\AppManifest.xaml
+C:\Dev\WP7\Chapter2\NavigatingWithStateApp\Bin\Debug\NavigatingWithStateApp.xap
+C:\Dev\WP7\Chapter2\NavigatingWithStateApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\WP7\Chapter2\NavigatingWithStateApp\obj\Debug\App.g.i.cs
+C:\Dev\WP7\Chapter2\NavigatingWithStateApp\obj\Debug\MainPage.g.i.cs
+C:\Dev\WP7\Chapter2\NavigatingWithStateApp\obj\Debug\Page2.g.i.cs
+C:\Dev\WP7\Chapter2\NavigatingWithStateApp\obj\Debug\NavigatingWithStateApp.g.resources
+C:\Dev\WP7\Chapter2\NavigatingWithStateApp\obj\Debug\NavigatingWithStateApp.dll
+C:\Dev\WP7\Chapter2\NavigatingWithStateApp\obj\Debug\NavigatingWithStateApp.pdb
+C:\Dev\WP7\Chapter2\NavigatingWithStateApp\obj\Debug\XapCacheFile.xml

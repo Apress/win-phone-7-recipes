@@ -1,0 +1,14 @@
+C:\Dev\WP7\Chapter2\NavigatingApp\Bin\Debug\ApplicationIcon.png
+C:\Dev\WP7\Chapter2\NavigatingApp\Bin\Debug\Background.png
+C:\Dev\WP7\Chapter2\NavigatingApp\Bin\Debug\NavigatingApp.dll
+C:\Dev\WP7\Chapter2\NavigatingApp\Bin\Debug\NavigatingApp.pdb
+C:\Dev\WP7\Chapter2\NavigatingApp\Bin\Debug\AppManifest.xaml
+C:\Dev\WP7\Chapter2\NavigatingApp\Bin\Debug\NavigatingApp.xap
+C:\Dev\WP7\Chapter2\NavigatingApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\WP7\Chapter2\NavigatingApp\obj\Debug\App.g.i.cs
+C:\Dev\WP7\Chapter2\NavigatingApp\obj\Debug\MainPage.g.i.cs
+C:\Dev\WP7\Chapter2\NavigatingApp\obj\Debug\Page2.g.i.cs
+C:\Dev\WP7\Chapter2\NavigatingApp\obj\Debug\NavigatingApp.g.resources
+C:\Dev\WP7\Chapter2\NavigatingApp\obj\Debug\NavigatingApp.dll
+C:\Dev\WP7\Chapter2\NavigatingApp\obj\Debug\NavigatingApp.pdb
+C:\Dev\WP7\Chapter2\NavigatingApp\obj\Debug\XapCacheFile.xml

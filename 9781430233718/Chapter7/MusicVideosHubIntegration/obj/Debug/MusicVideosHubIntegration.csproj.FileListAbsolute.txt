@@ -1,0 +1,13 @@
+F:\Chapter7\MusicVideosHubIntegration\Bin\Debug\ApplicationIcon.png
+F:\Chapter7\MusicVideosHubIntegration\Bin\Debug\Background.png
+F:\Chapter7\MusicVideosHubIntegration\Bin\Debug\MusicVideosHubIntegration.dll
+F:\Chapter7\MusicVideosHubIntegration\Bin\Debug\MusicVideosHubIntegration.pdb
+F:\Chapter7\MusicVideosHubIntegration\obj\Debug\ResolveAssemblyReference.cache
+F:\Chapter7\MusicVideosHubIntegration\obj\Debug\App.g.i.cs
+F:\Chapter7\MusicVideosHubIntegration\obj\Debug\MainPage.g.i.cs
+F:\Chapter7\MusicVideosHubIntegration\obj\Debug\MusicVideosHubIntegration.g.resources
+F:\Chapter7\MusicVideosHubIntegration\obj\Debug\MusicVideosHubIntegration.dll
+F:\Chapter7\MusicVideosHubIntegration\obj\Debug\MusicVideosHubIntegration.pdb
+F:\Chapter7\MusicVideosHubIntegration\Bin\Debug\AppManifest.xaml
+F:\Chapter7\MusicVideosHubIntegration\Bin\Debug\MusicVideosHubIntegration.xap
+F:\Chapter7\MusicVideosHubIntegration\obj\Debug\XapCacheFile.xml

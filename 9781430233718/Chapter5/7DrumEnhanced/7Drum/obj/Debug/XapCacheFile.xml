@@ -1,0 +1,37 @@
+﻿<xapCache source="C:\Dev\WP7\7DrumEnhanced\7Drum\Bin\Debug\_7Drum.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="17/03/2011 10:49:36">
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="04/01/2011 14:41:56" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\obj\Debug\7Drum.dll" archivePath="7Drum.dll" lastWriteTime="17/03/2011 10:49:30" />
+  <file source="c:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v7.0\Libraries\Microsoft.Expression.Interactions.dll" archivePath="Microsoft.Expression.Interactions.dll" lastWriteTime="01/09/2010 01:41:46" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.0\Toolkit\Feb11\Bin\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="17/02/2011 16:27:04" />
+  <file source="c:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v7.0\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="01/09/2010 01:41:46" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="30/12/2010 22:08:26" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\audio\china.wav" archivePath="audio\china.wav" lastWriteTime="31/12/2010 16:30:28" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\audio\click_a.wav" archivePath="audio\click_a.wav" lastWriteTime="18/02/2011 14:56:41" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\audio\click_b.wav" archivePath="audio\click_b.wav" lastWriteTime="18/02/2011 14:56:23" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\audio\crash1.wav" archivePath="audio\crash1.wav" lastWriteTime="31/12/2010 15:58:46" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\audio\crash2.wav" archivePath="audio\crash2.wav" lastWriteTime="31/12/2010 16:21:46" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\audio\hihat.wav" archivePath="audio\hihat.wav" lastWriteTime="31/12/2010 16:28:32" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\audio\kick.wav" archivePath="audio\kick.wav" lastWriteTime="31/12/2010 16:22:38" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\audio\ride.wav" archivePath="audio\ride.wav" lastWriteTime="31/12/2010 17:09:50" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\audio\snare.wav" archivePath="audio\snare.wav" lastWriteTime="31/12/2010 17:05:44" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\audio\tom1.wav" archivePath="audio\tom1.wav" lastWriteTime="31/12/2010 16:31:32" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\audio\tom2.wav" archivePath="audio\tom2.wav" lastWriteTime="31/12/2010 16:31:52" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\audio\tom3.wav" archivePath="audio\tom3.wav" lastWriteTime="31/12/2010 16:32:12" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\audio\tom4.wav" archivePath="audio\tom4.wav" lastWriteTime="31/12/2010 16:29:18" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\Background.png" archivePath="Background.png" lastWriteTime="30/12/2010 22:08:26" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\images\dark\appbar.delete.rest.png" archivePath="images\dark\appbar.delete.rest.png" lastWriteTime="04/01/2011 15:40:44" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\images\dark\appbar.edit.rest.png" archivePath="images\dark\appbar.edit.rest.png" lastWriteTime="04/01/2011 15:40:44" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\images\dark\appbar.new.rest.png" archivePath="images\dark\appbar.new.rest.png" lastWriteTime="04/01/2011 15:40:44" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\images\dark\appbar.save.rest.png" archivePath="images\dark\appbar.save.rest.png" lastWriteTime="05/01/2011 11:20:29" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\images\dark\appbar.stop.rest.png" archivePath="images\dark\appbar.stop.rest.png" lastWriteTime="18/02/2011 14:58:44" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\images\dark\appbar.transport.play.rest.png" archivePath="images\dark\appbar.transport.play.rest.png" lastWriteTime="18/02/2011 14:58:45" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\images\Drum_Kit_480x800.jpg" archivePath="images\Drum_Kit_480x800.jpg" lastWriteTime="31/12/2010 15:42:24" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\images\light\appbar.delete.rest.png" archivePath="images\light\appbar.delete.rest.png" lastWriteTime="04/01/2011 15:33:46" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\images\light\appbar.edit.rest.png" archivePath="images\light\appbar.edit.rest.png" lastWriteTime="04/01/2011 15:33:46" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\images\light\appbar.new.rest.png" archivePath="images\light\appbar.new.rest.png" lastWriteTime="04/01/2011 15:33:46" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\images\light\appbar.save.rest.png" archivePath="images\light\appbar.save.rest.png" lastWriteTime="05/01/2011 11:20:48" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\images\light\appbar.transport.play.rest.png" archivePath="images\light\appbar.transport.play.rest.png" lastWriteTime="04/01/2011 15:33:46" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\images\mask_480x800.png" archivePath="images\mask_480x800.png" lastWriteTime="31/12/2010 15:43:06" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="30/12/2010 22:08:26" />
+  <file source="C:\Dev\WP7\7DrumEnhanced\7Drum\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="18/02/2011 16:11:58" />
+</xapCache>

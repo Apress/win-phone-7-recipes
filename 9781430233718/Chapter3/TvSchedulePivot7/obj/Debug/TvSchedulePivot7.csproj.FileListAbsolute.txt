@@ -1,0 +1,15 @@
+F:\Chapter3\TvSchedulePivot7\Bin\Debug\ApplicationIcon.png
+F:\Chapter3\TvSchedulePivot7\Bin\Debug\Background.png
+F:\Chapter3\TvSchedulePivot7\Bin\Debug\TvSchedulePivot7.dll
+F:\Chapter3\TvSchedulePivot7\Bin\Debug\TvSchedulePivot7.pdb
+F:\Chapter3\TvSchedulePivot7\Bin\Debug\AppManifest.xaml
+F:\Chapter3\TvSchedulePivot7\Bin\Debug\TvSchedulePivot7.xap
+F:\Chapter3\TvSchedulePivot7\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\Chapter3\TvSchedulePivot7\Bin\Debug\Microsoft.Phone.Controls.xml
+F:\Chapter3\TvSchedulePivot7\obj\Debug\ResolveAssemblyReference.cache
+F:\Chapter3\TvSchedulePivot7\obj\Debug\App.g.i.cs
+F:\Chapter3\TvSchedulePivot7\obj\Debug\MainPage.g.i.cs
+F:\Chapter3\TvSchedulePivot7\obj\Debug\TvSchedulePivot7.g.resources
+F:\Chapter3\TvSchedulePivot7\obj\Debug\TvSchedulePivot7.dll
+F:\Chapter3\TvSchedulePivot7\obj\Debug\TvSchedulePivot7.pdb
+F:\Chapter3\TvSchedulePivot7\obj\Debug\XapCacheFile.xml
